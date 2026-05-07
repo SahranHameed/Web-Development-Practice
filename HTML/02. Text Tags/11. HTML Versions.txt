@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Meta Tags</title>
+        <meta charset="utf-8"> 
+    </head>
+
+    <body>
+        <h1><center>Meta Tags</center></h1>
+
+        <p> I warmly welcome you to my website. </p>
+        <p> என்னுடைய வலைத்தளத்திற்கு உங்களை அன்புடன் வரவேற்கிறேன்.</p>
+        <p> මගේ වෙබ් අඩවියට ඔබව සාදරයෙන් පිළිගනිමි.</p>
+    </body>
+</html>
