@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Audio Tag</title>
+</head>
+<body>
+    <h1><center> <u>Audio Tag</u></center></h1>
+
+    <h2>Audio file with wav format</h2>
+    <audio src="./Friends.wav" controls></audio>
+
+    <h2>Audio file with ogg format</h2>
+    <audio src="./Friends.ogg" controls></audio>
+
+    <h2>Audio file with mp3 format</h2>
+    <audio src="./Friends.mp3" controls></audio> 
+
+    <!-- 2nd Solution for Audio Format -->
+    <h2>Audio file with all format</h2>
+    <audio controls> 
+        <source src="Friends.wav" type="audio/wav">
+        <source src="Friends.ogg" type="audio/ogg">
+        <source src="Friends.mp3" type="audio/mp3">
+    </audio>
+</body>
+</html>
